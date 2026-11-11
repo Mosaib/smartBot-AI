@@ -6,7 +6,7 @@ A full-stack AI chatbot built with **React.js, Node.js, Express.js, and OpenAI A
 
 ### Chat Interface
 
-![SmartBot AI Chat Interface](screenshots/1.png)
+![SmartBot AI Chat Interface](screenshots/1.png)(screenshots/2.png)
 
 ## ✨ Features
 
